@@ -1,0 +1,12 @@
+- Age: 30
+  City: New York
+  Name: John
+- Age: 29
+  City: Berlin
+  Name: Adam
+- Age: 35
+  City: Munich
+  Name: Manual
+- Age: 40
+  City: "Z\xFCrich"
+  Name: Josef
